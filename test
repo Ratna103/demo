@@ -2,3 +2,5 @@ tpday we started git
 what is git
 git is version control tool
 git commit is used to save the changes to repository
+git fetch is used to track the changes in remote repo
+git branch will dislpay current working branch 
